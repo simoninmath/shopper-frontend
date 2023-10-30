@@ -2,12 +2,13 @@
 
 /**
 * Add the Tailwind directives
-*/
+*/ 
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-html {
+/* html {
   --color-pale-purple: #e3d8f1ff;
   --color-gunmetal: #022b3aff;
   --color-teal: #1f7a8cff;
@@ -33,4 +34,4 @@ body {
 
 section {
   color: var(--color-yellow-green);
-}
+} */
